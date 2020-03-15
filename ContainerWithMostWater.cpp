@@ -1,5 +1,6 @@
 //Leetcode No.11 Container With Most Water
 //https://leetcode.com/problems/container-with-most-water/
+//Two-pointer approach
 
 class Solution {
 public:
